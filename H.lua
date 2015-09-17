@@ -22,4 +22,3 @@ print(oneHero.attack)
 for k,v in pairs(oneHero) do
 	print(k,v)
 end
------啊啊啊啊啊
